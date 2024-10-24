@@ -1,18 +1,25 @@
-# Título do projeto
+# Conversor de Unidades
 
-Um parágrafo da descrição do projeto vai aqui
+Exercício da AC2 sobre Classe Estática
 
-## 🚀 Começando
+## 🚀 Enunciado
+Tema: Biblioteca de Conversões
 
-Pode colocar o enunciado para o desenvolvimento do projeto
+Imagine que você está desenvolvendo um sistema para conversões de unidades, como temperatura, comprimento e massa. Sua tarefa é criar uma classe estática chamada ConversorUnidades que contenha métodos para realizar algumas conversões importantes.
+
+Enunciado:
+
+Crie uma classe estática chamada ConversorUnidades que deve conter os seguintes métodos:
+
+celsiusParaFahrenheit(double celsius): converte uma temperatura em Celsius para Fahrenheit.
+quilometrosParaMilhas(double quilometros): converte uma distância em quilômetros para milhas.
+gramasParaLibras(double gramas): converte uma massa em gramas para libras.
+Após criar a classe, implemente uma classe principal (Main) que chame cada um dos métodos da classe ConversorUnidades e exiba o resultado no console.
 
 ### 📋 Pré-requisitos
 
-De que coisas você precisa para instalar o software e como instalá-lo?
-
-```
-Dar exemplos
-```
+![AC2 Classe Estática](https://github.com/user-attachments/assets/56fc111a-842a-4f06-a64a-8130f8567bb4)
+![image](https://github.com/user-attachments/assets/5a4f50ba-4ffb-4551-988d-389a1c92a022)
 
 ### 🔧 Instalação
 
@@ -31,5 +38,5 @@ Ferramentas utilizadas e bibliotecas
 
 ## ✒️ Autores
 
-* **Nome do desenvolvedor** - *Trabalho Inicial* - Nome da atividade
+* João Carlos Ferreira de Araujo RA 248152 - AC2 de Programação Orientada à Objetos
 
